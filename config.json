@@ -7,7 +7,7 @@
     "quality": 10
   },
   "streams": {
-    "boudoir": "rtsp://192.168.0.1:7447/m9rjmzH333Ql7INd",
+    "boudoir": "rtsp://admin:ThienTu!!11@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif",
     "wineCellar": "rtsp://192.168.0.1:7447/1m4ipKDRjakHmGJA",
     "homeTheaterRoom": "rtsp://192.168.0.1:7447/iRPCfuce4aOqXjPq"
   }

@@ -15,7 +15,8 @@
     "express": "^4.17.1",
     "helmet": "^4.4.1",
     "lodash": "^4.17.20",
+    "node-telegram-bot-api": "^0.64.0",
     "os-monitor": "^1.0.10",
-    "rtsp-ffmpeg": "^0.0.15"
+    "rtsp-ffmpeg": "^0.0.17"
   }
 }

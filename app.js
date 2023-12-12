@@ -44,7 +44,7 @@ require('./routes.js')(app, config, log);
 log.debug('routes loaded');
 
 // create a http and https servers, with a WebSocket over TLS server also listening on :443
-var httpServer = http.createServer(app).listen(80, function(err){
+var httpServer = http.createServer(app).listen(3005, function(err){
   if (err){
     log.fatal('express HTTP server failed to start listening: '+err);
   } else {
