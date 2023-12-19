@@ -22,7 +22,6 @@
     "mqtt": "^5.3.3",
     "node-telegram-bot-api": "^0.64.0",
     "os-monitor": "^1.0.10",
-    "puppeteer": "^21.6.0",
     "rtsp-ffmpeg": "^0.0.17"
   }
 }
